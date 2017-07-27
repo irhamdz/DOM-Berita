@@ -1,0 +1,3 @@
+26 - 04 -2016
+- blum bisa explode url "http://republika.co.id" dengan spesifik
+- cari cara agar preg_match diinputkan
