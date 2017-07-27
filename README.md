@@ -1,10 +1,10 @@
 # DOM-Berita
 Document Object Oriented berita untuk menangkap sebuah kata dari berita secara online dan menampilkan berita tersebut sesuai kata kunci
 
-# Requirement
+## Requirement
 `koneksi internet`
 
-# Channel Berita
+## Channel Berita
 * CNN Indonesia
 * Republika
 * Viva
